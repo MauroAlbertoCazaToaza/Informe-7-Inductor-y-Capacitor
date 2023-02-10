@@ -2,8 +2,14 @@
 ## 1.OBJETIVOS
 
 ### Objetivo General
+Analizar las diferencias entre un inductor y capacitor, así como también la simbología que tiene cada uno, de igual manera diferenciarlos en los circuitos y buscar un simulador online adecuado para desarrollar el informe y responder a las preguntas planteadas con la ayuda de este.
 
 ### Objetivos Específicos
+• Verificar el comportamiento de la bobina y el capacitor en circuitos DC.
+
+• Verificar el comportamiento de la bobina y el capacitor en circuitos AC.
+
+• Verificar las combinaciones serie y paralelo de bobinas y capacitores.
 
 ## 2.MARCO TEÓRICO
 
@@ -198,13 +204,11 @@ Voltaje Pico
 
 ## 3.2 Analisis de Resultados : 
 
-**Inductor**
+![image](https://user-images.githubusercontent.com/116821356/218142731-fb72e9ad-f9eb-46ce-943b-b10c862218d5.png)
 
-![image](https://user-images.githubusercontent.com/84594486/131457969-85014f7a-5173-4ed9-9279-e0b7bb9274cc.png)
+![image](https://user-images.githubusercontent.com/116821356/218143049-cace7efc-27e8-4501-965e-083370808075.png)
 
-**Capacitor**
 
-![image](https://user-images.githubusercontent.com/84594486/131457919-f49095ff-d78b-48ff-aa83-b49f4294d837.png)
 
 ## 4. Preguntas : 
 
@@ -227,9 +231,6 @@ El voltaje y corriente dentro de los circuitos variaría en cada bobina o capaci
 **4. ¿Qué son los valores eficaces de voltaje y corriente?**
 
 Un valor eficaz de una corriente o un voltaje en corriente alterna es el valor de una corriente o un voltaje en corriente continua que puede producir la misma potencia que dicho valor de voltaje o corriente en alterna.
-
-
-## 5. Video : 
 
 
 
