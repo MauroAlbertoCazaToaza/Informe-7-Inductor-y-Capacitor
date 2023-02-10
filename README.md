@@ -13,6 +13,11 @@ Analizar las diferencias entre un inductor y capacitor, así como también la si
 
 ## 2.MARCO TEÓRICO
 
+
+![1](https://user-images.githubusercontent.com/116821356/218153458-5b70ad58-6057-4f41-ba8b-dd444327a3fc.png)
+![2](https://user-images.githubusercontent.com/116821356/218153479-a34316c2-fe64-4f48-8494-60a3f465bd77.png)
+
+
 ## 3.EXPLICACION DEL PROCEDIMIENTO
 
 ### ELABORACION DE NUESTRO CIRCUITO
