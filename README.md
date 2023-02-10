@@ -1,0 +1,1 @@
+# Informe-7-Inductor-y-Capacitor
