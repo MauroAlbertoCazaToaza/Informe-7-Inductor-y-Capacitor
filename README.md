@@ -35,7 +35,8 @@ Elaboramos nuestro circuito mediante la plataforma ACDCLab para cual ocupamos lo
 
 Corriente 
 
-![image](https://user-images.githubusercontent.com/116821356/218144935-50a0d8cb-e897-49f0-8cea-4056c7159706.png)
+![image](https://user-images.githubusercontent.com/116821356/218145381-5ee27b3f-d1e2-4488-a089-af144cb0d91e.png)
+
 
 Voltaje 
 
